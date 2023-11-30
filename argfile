@@ -1,0 +1,2 @@
+-classpath target/ümlaut_demö.jar
+org.example.Main
