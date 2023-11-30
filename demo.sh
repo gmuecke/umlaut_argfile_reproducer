@@ -1,2 +1,2 @@
 #!/bin/bash
-java @argfile
+java @argfile.txt

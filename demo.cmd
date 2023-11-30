@@ -1,2 +1,2 @@
-java @argfile
+java @argfile.txt
 
